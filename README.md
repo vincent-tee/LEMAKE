@@ -9,9 +9,9 @@ Welcome to Le'Make, your pocket-sized, culinary genius! Driven by AI, Le'Make cu
 #### Pre-Cooking Essentials
 
 <div style="display: inline-block;">
-  <img width="294" alt="Pantry" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/ebeb7dc7-c9d1-4e7b-bb9e-568d34402efe">
-  <img width="294" alt="Add Ingredients" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/6f5946cc-e280-4c8f-a7f9-e3f1e306d79e">
-  <img width="294" alt="Cooking Preferences" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/469dd55f-45ed-405c-804e-ab83541ea7a4">
+  <img width="30%" alt="Pantry" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/ebeb7dc7-c9d1-4e7b-bb9e-568d34402efe">
+  <img width="30%" alt="Add Ingredients" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/6f5946cc-e280-4c8f-a7f9-e3f1e306d79e">
+  <img width="30%" alt="Cooking Preferences" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/469dd55f-45ed-405c-804e-ab83541ea7a4">
 </div>
 
 *From left to right: Pantry, Add Ingredients, Cooking Preferences.*
@@ -19,9 +19,9 @@ Welcome to Le'Make, your pocket-sized, culinary genius! Driven by AI, Le'Make cu
 #### Recipe Discovery & Customization
 
 <div style="display: inline-block;">
-  <img width="294" alt="Recipe Index" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/062db581-180b-475a-91bc-35f0eb3eb288">
-  <img width="294" alt="Recipes Show" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/b7c1a85a-4c29-4253-98ab-85a88bb80bb5">
-  <img width="294" alt="Personal Notes" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/599d6ead-280f-4494-aec4-cd0828609785">
+  <img width="30%" alt="Recipe Index" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/062db581-180b-475a-91bc-35f0eb3eb288">
+  <img width="30%" alt="Recipes Show" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/b7c1a85a-4c29-4253-98ab-85a88bb80bb5">
+  <img width="30%" alt="Personal Notes" src="https://github.com/vincent-tee/LEMAKE/assets/98565950/599d6ead-280f-4494-aec4-cd0828609785">
 </div>
 
 *From left to right: Recipes Index, Recipes Show, Personal Notes.*
