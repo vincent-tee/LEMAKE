@@ -59,7 +59,7 @@ Welcome to Le'Make, your pocket-sized, culinary genius! Driven by AI, Le'Make cu
 - **PostgreSQL**: Our choice for secure and efficient database management.
 - **Bootstrap**: Stylish and functional designs.
 - **Figma**: Where our UI/UX journey begins.
-- **Faraday**: Streamlining API calls like a pro.
+- **Faraday**: Making API interactions seamless and efficient.
 - **OpenAI GPT**: The power behind our AI-generated recipes.
 - **Google Custom Search API**: For the most eye-catching recipe images.
 - **Algolia**: Lightning-fast and accurate search.
