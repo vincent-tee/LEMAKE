@@ -36,9 +36,9 @@ export default class extends Controller {
 
     }
 
-    // recognition.onspeechend = () => {
-    //   recognition.stop();
-    // };
+    recognition.onspeechend = () => {
+      recognition.stop();
+    };
 
 }
 }

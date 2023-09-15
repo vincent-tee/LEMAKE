@@ -11,7 +11,7 @@
       <%= simple_form_for [@meal, @uploaded_ingredient], url: meal_uploaded_ingredients_path(@meal), html: { 'data-speech-target': "form" } do |f| %>
       <%= f.simple_fields_for :ingredient, @ingredient_new do |i_f| %>
         <div class="form d-flex justify-content-between align-items-center mb-3">
-          <%= i_f.input :name, label:false, placeholder: "Type ingredient here!", input_html: { class: "ingredient-input", data: { speech_target: "input" } }, wrapper_html: { class: "no-margin" } %>
+          <%= f.input :name, label: false, placeholder: "Type ingredient here!", input_html: { class: "ingredient-input", data: { speech_target: "input" } }, wrapper_html: { class: "no-margin" } %>
           <div class="d-flex justify-content-center " id="mic">
             <i class="fa-solid fa-microphone" style="color: #484846;"  data-action="click->speech#record"></i>
           </div>
