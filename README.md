@@ -1,8 +1,8 @@
 # Le'Make Recipe App 🍲📲
 
-## Elevator Pitch
+## Welcome to [Le'Make](https://le-make-aus-8f8ac96c24d6.herokuapp.com/)!
 
-Welcome to [Le'Make](https://le-make-aus-8f8ac96c24d6.herokuapp.com/), your pocket-sized, culinary genius! Driven by AI, Le'Make customizes your cooking experience like never before. Whether you're looking to utilize specific ingredients or need a quick recipe idea for dinner, we've got you covered—all tailored to your time and serving needs. Let's make every meal an adventure!
+Your pocket-sized, culinary genius is here! Driven by AI, Le'Make customizes your cooking experience like never before. Whether you're looking to utilize specific ingredients or need a quick recipe idea for dinner, we've got you covered—all tailored to your time and serving needs. Let's make every meal an adventure! Just click the yellow cook button to get started.
 
 ## Screenshots
 
