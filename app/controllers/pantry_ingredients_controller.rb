@@ -1,6 +1,6 @@
 class PantryIngredientsController < ApplicationController
   def index
-    @pantry_ingredients = current_user.pantry_ingredients
+    @pantry_ingredients = current_user.pantry_ingredients.includes(:ingredient)
     @pantry_ingredient = PantryIngredient.new
     @ingredient = Ingredient.new
     @ingredients = Ingredient.all

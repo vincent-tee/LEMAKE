@@ -78,7 +78,9 @@ export default class extends Controller {
 
 
   closeModal(event) {
-    event.preventDefault();
+    if (event.currentTarget.innerHTML === '×') {
+      event.preventDefault();
+    }
     this.popupTarget.classList.remove("open-popup");
   }
 

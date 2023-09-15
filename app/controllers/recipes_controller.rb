@@ -27,8 +27,7 @@ class RecipesController < ApplicationController
     @meal = Meal.find(params[:meal_id])
 
     # Get uploaded ingredient IDs from the current user and fetch their names
-    uploaded_ingredients_ids = current_user.uploaded_ingredients.pluck(:ingredient_id)
-    uploaded_ingredients = Ingredient.where(id: uploaded_ingredients_ids).pluck(:name)
+    uploaded_ingredients = current_user.uploaded_ingredients.pluck(:name)
 
     # Get pantry ingredient IDs from the current user and fetch their names
     pantry_ingredients_ids = current_user.pantry_ingredients.pluck(:ingredient_id)
